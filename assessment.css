@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+  background-color: rgb(198, 200, 198);
+  color: #fff;
+  width: 500px;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+button {
+  padding: 5px 20px;
+  background-color: #ccc;
+  border-style: none;
+  border-radius: 10px;
+}
+input {
+  height: 25px;
+  border-radius: 10px;
+  border-style: none;
+}
+span {
+  color: #95f;
+  font-size: 18px;
+  font-weight: bold;
+}
