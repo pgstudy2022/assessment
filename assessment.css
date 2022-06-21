@@ -1,0 +1,23 @@
+body {
+  background-color: #700060;
+  color: #fff;
+  width: 500px;
+  margin: 0 auto;
+  font-family: serif;
+}
+
+button {
+  background-color: #100010;
+  color: #fff;
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: #700060;
+}
+
+input {
+  height: 25px;
+  border-radius: 5px;
+}
